@@ -1,4 +1,4 @@
-﻿"Año";"Periodo";"A partir del 28 de marzo de 2022 solo recoge casos en población considerada "vulnerable""
+﻿"Año";"Periodo";"casos"
 "2021";"Día 21 de junio";"3,76"
 "2021";"Día 22 de junio";"3,77"
 "2021";"Día 23 de junio";"3,77"
@@ -380,17 +380,3 @@
 "2023";"Día 2 de junio";"13,89"
 "2023";"Día 16 de junio";"13,91"
 "2023";"Día 30 de junio";"13,91"
-;;
-;;
-"Métrica":"A partir del 28 de marzo de 2022 solo recoge casos en población considerada "vulnerable""
-"Fuente":"Ministerio de Sanidad, Servicios Sociales e Igualdad,Universidad Johns Hopkins"
-"Clasificación":""
-"Unidad":"Número de casos en lo que va de año"
-"Escala":"Millones"
-"EscalaFactorPotencia10":"6"
-"SonDatosNumericos":"True"
-;;
-;;
-"Url":"https://www.epdata.es/casos-acumulados-coronavirus-espana/a3e214f9-bab7-4231-97b8-edbe9d0c85a3"
-"Titulo":"Casos diagnosticados de coronavirus en España desde que comenzó la epidemia"
-"Subtitulo":""
